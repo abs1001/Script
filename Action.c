@@ -24,7 +24,7 @@ Action()
 		"Url=../favicon.ico", ENDITEM, 
 		LAST);
 		
-		Test;
+	
 	
 	return 0;
 }
