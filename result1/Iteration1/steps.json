@@ -1,0 +1,14 @@
+[
+    {
+        "stepId": "STEP1",
+        "stepName": "Url: index.html",
+        "infFile": "t1.inf",
+        "time": 1548832783859
+    },
+    {
+        "stepId": "STEP2",
+        "stepName": "Url: index.html1",
+        "infFile": "t2.inf",
+        "time": 1548832787131
+    }
+]

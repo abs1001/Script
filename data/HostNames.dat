@@ -1,0 +1,10 @@
+[hosts]
+10.10.30.7=
+clients4.google.com=
+clientservices.googleapis.com=
+accounts.google.com=
+ssl.google-analytics.com=
+ssl.gstatic.com=
+www.google-analytics.com=
+clients1.google.com=
+stats.g.doubleclick.net=

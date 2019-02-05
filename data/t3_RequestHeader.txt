@@ -1,0 +1,11 @@
+POST /ListAccounts?gpsia=1&source=durations_metrics&json=standard HTTP/1.1
+Host: accounts.google.com
+Connection: keep-alive
+Content-Length: 1
+Origin: https://www.google.com
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: SMSV=ADHTe-DswTkJyfP5ToiPzMjl1WzaXgYnZ9XQx_opc4yp4UPm7P1A_J4uHAnUZep8pz3ga738IgNS7dHlnLdfMHwqiZrN1l0wHp6h3TFNcrWF2CTkLB3kqXTSVvhXXRjGamK4jDTxyMrX; ACCOUNT_CHOOSER=AFx_qI5_-GKSkAR4N5B82jttzI0UHJGew1IK8M7uf5a2dk5nKOBvm0ekf4GSQVJrT3f9n77XTaAXKKcCrcBZnXByaCYQGGWIyJ37T2HybiPTcb2UDMAluc_I_8dz1TFCW7NLA_rEu_PuOET2AHICMMb7sS3p8zL1zJOTWYFGg6rV93TUnDdGIzARu6K9MNiZwnVkXk4rmjf12Guvvr0H5WzzjfK8qSqDAQ; SID=xQaNrjj20SaHUhN0oSlnkL8oC13HBp1amve4Ujvrkayy29Ym7kyDMPGlwe7ET6B_P3BSLg.; LSID=s.IN|wise:xQaNrtnEbIkAC42_4yHC5kMVQ3ItRPRk6xVGhz1EULRLCm6ZiAsOvncg4vGDUgH-EO7Xxw.; HSID=AWTQOR7I7nw2gUB8z; SSID=AqjRnI6eLHnpadeHA; APISID=CDBV4AhfvRftuCpu/APcucHoXzCxSHr5SU; SAPISID=QDMB5_tmXGnXS0GF/A3i0gi53tsdchFmIH; GAPS=1:5JxnML4RGY_RK2sJsv106ECbXHllgiplho8UkePPEoCnQHA9piqZmYgdAYatyS6XlY2-9ZMpjgABddKMCkVtFurTLoGoug:5V8Rn-KPrUlInXzx; NID=156=OiLqW35aaZUaLWAXmyuj5h_yj8Ae6-dcmfWp0_hg0a1CxI9sXoevRLZl5b42ullfLfO_KOUNoKauqouHQjRV7T6cE4EFpZf-KMayZOclsV7rUzBeHnvjkie_yQxMCeKeczT97WXCfcMoxa6xYb31QFQaek07bjpIQKiBbV867E1gOPTIY4RO1hQPNFr-SHco18GLNDyBIzjaVrWEbWU2koskYlFh4mqcoKrMYGjCmLHGruWX; SIDCC=ABtHo-F3BeoVO1McffqBtYozXkS3x7-13WMpIZchEkKBRKs41S5YjfoBoa5FRpW4eyREi25Cb9Y; 1P_JAR=2019-1-29-10
+

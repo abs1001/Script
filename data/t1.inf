@@ -1,0 +1,13 @@
+[t1]
+FileName1=t1.html
+URL1=http://10.10.30.7:81/tours/index.html
+Total=2
+RequestHeaderFile=t1_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t1_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_1.xml
+FileName2=t1_banner_animated.gif
+URL2=http://10.10.30.7:81/tours/Merc10-dev/images/banner_animated.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,24 @@
+Virtual User Script started at: 2/4/2019 4:48:13 PM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.55.0 for Windows 10; build 911 (Jul 24 2017 19:46:00)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36  	[MsgId: MMSG-26988]
+Run-Time Settings file: "C:\Users\compass-401\Documents\VuGen\Scripts\Deepika_Host_Param\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(15): web_url("index.html1") started  	[MsgId: MMSG-26355]
+Action.c(15): Downloading resource "http://www.google.com/favicon.ico" (specified by argument number 9)  	[MsgId: MMSG-26577]
+Action.c(15): Redirecting "http://www.google.com" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(15): To location "https://www.google.com/?gws_rd=ssl"  	[MsgId: MMSG-26693]
+Action.c(15): Found resource "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" in HTML "https://www.google.com/?gws_rd=ssl"  	[MsgId: MMSG-26659]
+Action.c(15): Notify: Transaction "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" will be skipped - could not calculate the transaction time (duration=0.8363, think_time=0.0000, wasted_time=1.1410).
+Action.c(15): web_url("index.html1") was successful, 91654 body bytes, 2284 header bytes, 805 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

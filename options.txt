@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\compass-401\Documents\VuGen\Scripts\Deepika_Host_Param
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\compass-401\documents\vugen\scripts\deepika_host_param\\logfile.log
+c:\users\compass-401\documents\vugen\scripts\deepika_host_param\\combined_Deepika_Host_Param.c
+c:\users\compass-401\documents\vugen\scripts\deepika_host_param\\pre_cci.c

@@ -1,0 +1,10 @@
+[t1]
+ContentType=text/html
+StepName=Url: index.html1
+Total=0
+RequestHeaderFile=t1_RequestHeader.txt
+ResponseHeaderFile=t1_ResponseHeader.txt
+RawStepEndTime=1549278919227
+RawStepName=index.html1
+RequestBodyFile=t1_RequestBody.txt
+RawStepStartTime=1549278919227

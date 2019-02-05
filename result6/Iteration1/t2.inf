@@ -1,0 +1,22 @@
+[t2]
+FileName2=t1_3_banner_merctur.jpe
+RawStepEndTime=1549278802360
+FileName5=t1_0_banner_animated.gif
+FileName4=t1_1_sun_swede.gif
+RequestBodyFile=t2_RequestBody.txt
+RawStepName=index.html1
+ContentType=text/html
+URL1=http://10.10.70.4:9008/favicon.ico
+URL2=http://10.10.70.4:9008/tours/images/banner_merctur.jpg
+URL3=http://10.10.70.4:9008/tours/Merc10-dev/images/login.gif
+ResponseHeaderFile=t2_ResponseHeader.txt
+URL4=http://10.10.70.4:9008/tours/Merc10-dev/images/sun_swede.gif
+URL5=http://10.10.70.4:9008/tours/Merc10-dev/images/banner_animated.gif
+SnapshotXmlFile=snapshot_1.xml
+RequestHeaderFile=t2_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1549278802349
+Total=5
+StepName=Url: index.html1
+FileName1=t1_4_favicon.UNK
+FileName3=t1_2_login.gif

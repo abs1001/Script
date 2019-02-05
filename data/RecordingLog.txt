@@ -1,0 +1,237 @@
+[API Trapper      (2fbc:2c18)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (3b84:1264)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (1324:2c14)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (2fbc:21b4)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2fbc:21b4)] Load Network Traffic Analyzers:
+[Network Analyzer (2fbc:21b4)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2fbc:21b4)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (2fbc:21b4)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2fbc:21b4)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (2fbc:21b4)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (2fbc:21b4)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2fbc:21b4)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2fbc:21b4)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2fbc: 858)] Address lookup for LAPTOP-85POFH0I = 192.168.186.1
+[Network Analyzer (2fbc:21b4)] Address lookup for LAPTOP-85POFH0I = 192.168.186.1
+[Network Analyzer (2fbc:21b4)] Request Connection: Remote Server @ 216.58.221.35:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (2fbc:21b4)] Address lookup for LAPTOP-85POFH0I = 192.168.186.1
+[Network Analyzer (2fbc:21b4)] Request Connection: Remote Server @ 10.10.30.7:81   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (2fbc:21b4)] Address lookup for LAPTOP-85POFH0I = 192.168.186.1
+[Network Analyzer (2fbc:21b4)] Request Connection: Remote Server @ 10.10.30.7:81   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (2fbc:21b4)] Address lookup for LAPTOP-85POFH0I = 192.168.186.1
+[Network Analyzer (2fbc:21b4)] Request Connection: Remote Server @ 172.217.160.237:443   (Service=)  (Sid=  4)  PROXIED!
+[Web Request      (2fbc: 858)] "GET /tours/index.html"   
+[Network Analyzer (2fbc: 858)]   (Sid:  2) Client -> Server @ : 397 bytes (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  2) Server -> Client : 3065 bytes  (Service=HTTP)
+[Network Analyzer (2fbc:21b4)] Address lookup for LAPTOP-85POFH0I = 192.168.186.1
+[Network Analyzer (2fbc:21b4)] Request Connection: Remote Server @ 216.58.196.206:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (2fbc:21b4)] Address lookup for LAPTOP-85POFH0I = 192.168.186.1
+[API Trapper      ( bf0:2ab0)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (2fbc:21b4)] Request Connection: Remote Server @ 172.217.160.232:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (2fbc:21b4)] Address lookup for LAPTOP-85POFH0I = 192.168.186.1
+[Network Analyzer (2fbc:21b4)] Request Connection: Remote Server @ 66.163.35.36:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (2fbc: 210)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2fbc:1678)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2fbc:21b4)] Address lookup for LAPTOP-85POFH0I = 192.168.186.1
+[Network Analyzer (2fbc:21b4)] Request Connection: Remote Server @ 172.217.167.3:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (2fbc:21b4)] Address lookup for LAPTOP-85POFH0I = 192.168.186.1
+[Network Analyzer (2fbc:21b4)] Request Connection: Remote Server @ 172.217.167.3:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (2fbc: 210)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2fbc:1678)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2fbc:2c10)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2fbc:2c10)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (2fbc: 858)] "GET /tours/Merc10-dev/images/banner_animated.gif"   
+[Network Analyzer (2fbc: 858)]   (Sid:  2) Client -> Server @ : 396 bytes (Service=HTTP)
+[Web Request      (2fbc: 858)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=71"   
+[Network Analyzer (2fbc: 858)]   (Sid:  1) Client -> Server @ : 378 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  4) Client -> Server @ : 1599 bytes (SSL)(Service=HTTP)
+[Web Request      (2fbc: 858)] "POST /rappor"   
+[Network Analyzer (2fbc: 858)]   (Sid:  5) Client -> Server @ : 365 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      (2fbc: 858)] "GET /tours/Merc10-dev/images/sun_swede.gif"   
+[Network Analyzer (2fbc: 858)]   (Sid:  3) Client -> Server @ : 390 bytes (Service=HTTP)
+[Web Request      (2fbc: 858)] "POST /ListAccounts?gpsia=1&source=durations_metrics&json=standard"   
+[Network Analyzer (2fbc: 858)]   (Sid:  4) Client -> Server @ : 1 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2fbc:21b4)] Address lookup for LAPTOP-85POFH0I = 192.168.186.1
+[Network Analyzer (2fbc: 858)]   (Sid:  2) Server -> Client : 229 bytes  (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  5) Server -> Client : 492 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  1) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  3) Server -> Client : 4215 bytes  (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  5) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  1) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  1) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc:21b4)] Request Connection: Remote Server @ 10.10.30.7:81   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (2fbc: 858)]   (Sid:  1) Server -> Client : 114 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc:21b4)] Address lookup for LAPTOP-85POFH0I = 192.168.186.1
+[Network Analyzer (2fbc:21b4)] Request Connection: Remote Server @ 10.10.30.7:81   (Service=)  (Sid= 11)  PROXIED!
+[Web Request      (2fbc: 858)] "GET /tours/images/banner_merctur.jpg"   
+[Network Analyzer (2fbc: 858)]   (Sid: 10) Client -> Server @ : 384 bytes (Service=HTTP)
+[Web Request      (2fbc: 858)] "GET /tours/Merc10-dev/images/login.gif"   
+[Network Analyzer (2fbc: 858)]   (Sid: 11) Client -> Server @ : 386 bytes (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid: 10) Server -> Client : 13940 bytes  (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid: 10) Server -> Client : 8700 bytes  (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid: 11) Server -> Client : 1413 bytes  (Service=HTTP)
+[Network Analyzer (2fbc:1ff0)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2fbc:1ff0)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2fbc: 858)]   (Sid:  4) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  4) Server -> Client : 220 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  4) Server -> Client : 48 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  4) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Web Request      (2fbc: 858)] "GET /ga.js"   
+[Network Analyzer (2fbc: 858)]   (Sid:  6) Client -> Server @ : 339 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  6) Server -> Client : 165 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  1) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  1) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  1) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  1) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Net An. Error    (2fbc:1f60)] SSL_connect(ssl_id = 2425287164928 = 00000234AE614400) Failed, ctx = 00000234AE5DBBD0, err = "SSLv2/v3 read server hello A", err code = 1, err msg = "error:00000001:lib(0):func(0):reason(1)
+error:1407742E:SSL routines:SSL23_GET_SERVER_HELLO:tlsv1 alert protocol version
+"
+[Net An. Error    (2fbc:1f60)]   (Sid:  7) SSL handshake with remote server Failed!
+[Network Analyzer (2fbc: 858)]   (Sid:  1) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  1) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  1) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  1) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  1) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  1) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  1) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  1) Server -> Client : 732 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  1) Server -> Client : 7 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc:38e4)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2fbc:38e4)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2fbc:3828)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2fbc:3828)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (2fbc: 858)] "GET /safebrowsing/csd/client_model_v5_variation_0.pb"   
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Client -> Server @ : 276 bytes (SSL)(Service=HTTP)
+[Web Request      (2fbc: 858)] "GET /safebrowsing/csd/client_model_v5_ext_variation_0.pb"   
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Client -> Server @ : 280 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1133 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1134 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 680 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 680 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  8) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid:  9) Server -> Client : 1337 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc:21b4)] Address lookup for LAPTOP-85POFH0I = 192.168.186.1
+[Network Analyzer (2fbc:21b4)] Request Connection: Remote Server @ 172.217.166.206:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (2fbc:21b4)] Address lookup for LAPTOP-85POFH0I = 192.168.186.1
+[Network Analyzer (2fbc:21b4)] Request Connection: Remote Server @ 216.58.196.206:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (2fbc:31ec)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2fbc:31ec)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (2fbc: 858)] "GET /favicon.ico"   
+[Network Analyzer (2fbc: 858)]   (Sid: 10) Client -> Server @ : 364 bytes (Service=HTTP)
+[Web Request      (2fbc: 858)] "GET /r/__utm.gif?utmwv=5.7.2&utms=1&utmn=2018062406&utmhn=fngmhnnpilhplaeedifhccceomclgfbg&utmcs=UTF-8&utmsr=1366x768&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=-&utmhid=1671637728&utmr=-&utmp=%2F_generated_background_page.html&utmht=1548832022130&utmac=UA-33054271-5&utmcc=__utma%3D168020214.279443394.1470319213.1548758482.1548832022.294%3B%2B__utmz%3D168020214.1470319213.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=951328821&utmredir=1&utmu=qAAAEAAAAAAAAAAAAAAAAAAE~"   
+[Network Analyzer (2fbc: 858)]   (Sid: 12) Client -> Server @ : 807 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid: 10) Server -> Client : 1471 bytes  (Service=HTTP)
+[Network Analyzer (2fbc:2d40)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2fbc: 858)]   (Sid: 12) Server -> Client : 893 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc:2d40)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (2fbc: 858)] "GET /tbproxy/af/query?q=Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRMZkZpsLWtdPNQjLeeNQA4kIy3OQUx6JBQ="   
+[Network Analyzer (2fbc: 858)]   (Sid: 13) Client -> Server @ : 430 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid: 13) Server -> Client : 373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2fbc:21b4)] Address lookup for LAPTOP-85POFH0I = 192.168.186.1
+[Network Analyzer (2fbc:21b4)] Request Connection: Remote Server @ 74.125.24.155:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (2fbc:2a8c)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2fbc:2a8c)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (2fbc: 858)] "GET /r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-33054271-5&cid=279443394.1470319213&jid=951328821&_v=5.7.2&z=2018062406"   
+[Network Analyzer (2fbc: 858)]   (Sid: 14) Client -> Server @ : 505 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2fbc: 858)]   (Sid: 14) Server -> Client : 494 bytes (SSL) (Service=HTTP)
