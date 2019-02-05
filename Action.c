@@ -19,9 +19,12 @@ Action()
 		"Referer=", 
 		"Snapshot=t1.inf", 
 		"Mode=HTML", 
+		
 		EXTRARES, 
 		"Url=../favicon.ico", ENDITEM, 
 		LAST);
+		
+		Test;
 	
 	return 0;
 }

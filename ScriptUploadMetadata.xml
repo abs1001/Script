@@ -55,6 +55,7 @@
     <FileEntry Name="23902996644_xti.337.idx" Filter="1" />
     <FileEntry Name="23902996644_YEa.595.idx" Filter="1" />
     <FileEntry Name="23902996644_zQF.898.idx" Filter="1" />
+    <FileEntry Name="abc.conf" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -63,6 +64,7 @@
     <FileEntry Name="Deepika_Host_Param.ci" Filter="1" />
     <FileEntry Name="Deepika_Host_Param.prm.bak" Filter="1" />
     <FileEntry Name="Deepika_Host_Param.sdf" Filter="1" />
+    <FileEntry Name="Gen_70_2_regression_scenario.conf" Filter="1" />
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
