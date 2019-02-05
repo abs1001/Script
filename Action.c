@@ -22,7 +22,6 @@ Action()
 		EXTRARES, 
 		"Url=../favicon.ico", ENDITEM, 
 		LAST);
-
 	
 	return 0;
 }
